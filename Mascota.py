@@ -19,3 +19,7 @@ class Mascota:
 
     def sonido(self):
         print("Grrrrrrr")
+
+    def truco(self):
+        raise NotImplementedError
+
